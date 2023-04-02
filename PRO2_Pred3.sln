@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dedovanje", "Dedovanje\Dedovanje.csproj", "{8D11820F-20D9-485A-ADC3-5B2F4629149D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozilo", "Vozilo\Vozilo.csproj", "{8F37E80F-5535-4559-BCA0-14ACE772F540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraktni", "Abstraktni\Abstraktni.csproj", "{92B45D29-1ABE-4C91-A291-7EEECD9516AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D11820F-20D9-485A-ADC3-5B2F4629149D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D11820F-20D9-485A-ADC3-5B2F4629149D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D11820F-20D9-485A-ADC3-5B2F4629149D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D11820F-20D9-485A-ADC3-5B2F4629149D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F37E80F-5535-4559-BCA0-14ACE772F540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F37E80F-5535-4559-BCA0-14ACE772F540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F37E80F-5535-4559-BCA0-14ACE772F540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F37E80F-5535-4559-BCA0-14ACE772F540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B45D29-1ABE-4C91-A291-7EEECD9516AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B45D29-1ABE-4C91-A291-7EEECD9516AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B45D29-1ABE-4C91-A291-7EEECD9516AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B45D29-1ABE-4C91-A291-7EEECD9516AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8230067-3C3E-46FD-930E-562C5671CDDB}
+	EndGlobalSection
+EndGlobal
